@@ -1,5 +1,5 @@
 # BestShell: A Powerful Collection of Shell Scripts 🚀
-![BestShell Backdoor](https://r00t-shell.com/wp-content/uploads/2025/03/BestShell.png) "BestShell Backdoor")
+![BestShell Backdoor](https://r00t-shell.com/wp-content/uploads/2025/03/BestShell.png "BestShell Backdoor")
 *Enhance your terminal experience with elegant, efficient shell scripts*
 
 ## Password:
